@@ -1,0 +1,18 @@
+[project]
+name = "python-screen-recorder"
+version = "1.0.0"
+description = "Intermediate desktop screen recorder built with Python, MSS, Tkinter and OpenCV."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mss>=10.0,<11.0",
+    "numpy>=2.0,<3.0",
+    "opencv-python>=4.10,<5.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
