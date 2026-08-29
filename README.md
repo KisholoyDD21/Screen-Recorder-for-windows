@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/github/license/KisholoyDD21/Screen-Recorder-for-windows)
 ![Stars](https://img.shields.io/github/stars/KisholoyDD21/Screen-Recorder-for-windows?style=social)
+![CI](https://github.com/KisholoyDD21/Screen-Recorder-for-windows/actions/workflows/ci.yml/badge.svg)
 
 A GitHub-ready intermediate Python screen recorder with a simple desktop GUI.
 
